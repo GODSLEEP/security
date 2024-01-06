@@ -1,2 +1,1 @@
-"# -WCC-learning" 
-"# -WCC-learning" 
+The old fashion sample trojan hourse
